@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorActionBar">#FF1B3BA6</color>
+    <color name="colorPrimary">#42b362</color>
+    <color name="colorPrimaryDark">#5c93fa</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNameButtons">#ffffff</color>
+    <color name="colorBtnAdd">#42b362</color>
+    <color name="colorBtnCadastrados">#5c93fa</color>
+    <color name="colorBtnSobre">#FF000D9C</color>
+    <color name="colorBtnExcluir">#ae010a</color>
+    <color name="colorBtnEditar">#ff9e4a</color>
+    <color name="colorBtnVoltar">#5c93fa</color>
+</resources>

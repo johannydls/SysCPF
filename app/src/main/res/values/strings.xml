@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sys CPF</string>
+    <string name="app_title">Sistema Cadastral de Pessoas Físicas</string>
+    <string name="btn_adicionar">ADICIONAR PESSOA FÍSICA</string>
+    <string name="btn_cadastrados">PESSOAS CADASTRADAS</string>
+    <string name="btn_sobre">SOBRE O APLICATIVO</string>
+    <string name="btn_inserir">ADICIONAR REGISTRO</string>
+    <string name="btn_salvarEdit">SALVAR ALTERAÇÕES</string>
+    <string name="btn_voltar">VOLTAR</string>
+    <string name="app_developer">Desenvolvido por Johanny LS</string>
+</resources>
